@@ -25,7 +25,7 @@ next just needs push access to this repo.
 **2. Page (or site) footer custom code** — `Before </body>`:
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/Keith-Flow-Sparrow/joyce-mobile@v1/joyce-messages.js" defer></script>
+<script src="https://cdn.jsdelivr.net/gh/Keith-Flow-Sparrow/joyce-mobile@v2/joyce-messages.js" defer></script>
 ```
 
 That's the whole integration — one tag. No `JOYCE_ASSET_BASE`, no image uploads;
